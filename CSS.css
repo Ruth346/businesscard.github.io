@@ -1,0 +1,23 @@
+#businesscard1 {
+    position: absolute;
+    width: 385px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#businesscard2 {
+    position: absolute;
+    width: 385px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#state2 {
+    display: none;  
+}
+
+#state1:hover + #state2 {
+    display: block;  
+}
