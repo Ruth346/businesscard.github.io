@@ -10,10 +10,10 @@
 <body>
 
     <div id="state1">
-        <img src="./Resources/Business Card 1.png" id="businesscard1">
+        <img src="businesscard.github.io/Business Card 1.png" id="businesscard1">
     </div>
     <div id="state2">
-        <img src="./Resources/Business Card 2.png" id="businesscard2">
+        <img src="businesscard.github.io/Business Card 2.png" id="businesscard2">
     </div>   
 
 </body>
